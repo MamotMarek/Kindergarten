@@ -4,3 +4,4 @@
 Projekt stworzony przez:
 Bartłomiej Żaglewski 11362
 Adrian Szywała 11235
+Oskar Szczypek 11748
