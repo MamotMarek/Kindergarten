@@ -1,0 +1,8 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 90BD-0020
+
+ Directory of C:\Users\Bartek\Desktop\new-folder\app_files\site\wwwroot\wp-content\themes\twentytwentyone\template-parts\excerpt
+
+13.06.2022  21:56                 0 new.txt
+               1 File(s)              0 bytes
+               0 Dir(s)  12 377 346 048 bytes free

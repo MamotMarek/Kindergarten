@@ -1,0 +1,5 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 90BD-0020
+
+ Directory of C:\Users\Bartek\Desktop\new-folder\app_files\site\repository\.git
+
